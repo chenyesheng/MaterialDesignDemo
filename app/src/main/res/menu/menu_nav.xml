@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="设置">
+        <menu>
+            <group android:id="@+id/setting_g_1">
+                <item
+                    android:id="@+id/setting_item_1"
+                    android:icon="@drawable/ic_settings_black_24dp"
+                    android:title="设置1"/>
+                <item
+                    android:id="@+id/setting_item_2"
+                    android:icon="@drawable/ic_settings_black_24dp"
+                    android:title="设置2"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="设置（个性）">
+        <menu>
+
+            <group android:id="@+id/setting_g_2">
+                <item
+                    android:id="@+id/setting_item_3"
+                    android:icon="@drawable/ic_settings_black_24dp"
+                    android:title="设置3"/>
+                <item
+                    android:id="@+id/setting_item_4"
+                    android:icon="@drawable/ic_settings_black_24dp"
+                    android:title="设置4"/>
+            </group>
+        </menu>
+    </item>
+</menu>

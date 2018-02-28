@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialDesignDemo</string>
+
+    <string name="toolbar">Toolbar</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="coordinator_layout">CoordinatorLayout</string>
+    <string name="tab_layout">TabLayout</string>
+</resources>
